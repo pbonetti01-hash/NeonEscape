@@ -37,8 +37,8 @@ O projeto inclui todos os arquivos necessários para abrir e editar no Unity:
 
 
 ## 🔹 Links
-- **Gameplay no YouTube: https://youtube.com/shorts/u5nV3l6J6yA?si=CxZHfYB6BwtW4Q0K
-- **Google Drive (unity package completo + arquivos do projeto): https://drive.google.com/drive/folders/15zkZSKAz_srNT4E61aSCRWvPkrd9J9kq?usp=sharing
+- **Gameplay no YouTube: https://youtube.com/shorts/u5nV3l6J6yA?si=CxZHfYB6BwtW4Q0K**
+- **Google Drive (unity package completo + arquivos do projeto): https://drive.google.com/drive/folders/15zkZSKAz_srNT4E61aSCRWvPkrd9J9kq?usp=sharing**
 
 ## 🔹 Como Rodar
 1. Faça o download do projeto pelo GitHub ou Google Drive.  
