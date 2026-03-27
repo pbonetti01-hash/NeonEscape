@@ -14,6 +14,7 @@ O objetivo do jogo é coletar **cristais** antes do tempo acabar, usando **gesto
   - PolyKebap  
   - Personagem do Mixamo (Mousey)  
 - **UI e Texto:** TextMeshPro
+- - **Musica:** OpenGameArt: Cyberpunk Moonlight Sonata
 
 ![2026-03-27 08-24-27 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/cde18083-3520-4b25-9a3a-60a34a04eb98)
 
